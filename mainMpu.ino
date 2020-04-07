@@ -1,3 +1,8 @@
+/*
+   Phan Ben 
+   email phanben110@gmail.com
+   face: https://www.facebook.com/ben.phan.5011
+ */
 #include "mpu_i2c.h"
 #include <math.h>
 MPU_I2C mpu ;
